@@ -56,15 +56,15 @@ Uses a domain-specific dataset for high accuracy
 
 4) Tech Stack
 
-Python
-Hugging Face Transformers
-PEFT (LoRA Fine-Tuning)
-Gemma 3 270M (SLM)
-Datasets Library
-React 
-Node.js
-Anaconda & Jupyter Notebook
-VScode
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-LoRA-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 5) Impact
 
