@@ -1,76 +1,49 @@
-# BINARY-BRAINS_Pranjal
-Team Name
-Binary Brains
+## Kalpathon Hackathon Submission
 
-Project Name
-LegalEase – AI-Powered Rental Clause Simplifier
+* Team Name
 
-Selected Track 
-Track Name -AI / SLM Fine-Tuning
+[Your Team Name]
 
-Selected Problem Statement (PS)
-Legal Clause Simplifier for Rental Agreements
+* Project Name
 
-Team Leader
-Name: Pranjal 
-Phone: 9569796938
+[Your Project Name]
 
-Team Members & Roles 
+* Selected Track
 
-Pritam Dey	    -AI/ML Engineer (Model Training & Fine-Tuning Pipeline)
-Rishabh Verma	  -Data Engineer (Data Scraping, Cleaning & Dataset Preparation)
-Priyanshu Kumar	-Frontend Developer (Streamlit UI & User Experience)
-Pranjal	        -Integration & Backend Engineer (Model Integration, Inference & System Flow)
+[Track Name – e.g., AI/ML, Web3, Healthcare, Sustainability, etc.]
 
-Project Description 
+* Selected Problem Statement (PS)
 
-1) Problem
+[Problem Statement ID / Title]
 
-* Rental agreements are filled with complex legal language that most people cannot understand. Tenants often sign contracts without fully knowing the risks, which can lead to:
-   1.Hidden liabilities
-   2.Unfair clauses
-   3.Financial or legal consequences
+* Team Leader
 
-There is a clear need for a system that can simplify legal clauses into plain, understandable language.
+Name: [Leader Name]
+Phone: [Phone Number]
 
-2) Solution
+* Team Members & Roles
+Name	Role
+[Member 1 Name]	[Role – e.g., Frontend Developer]
+[Member 2 Name]	[Role – Backend Developer]
+[Member 3 Name]	[Role – AI/ML Engineer]
 
-* We developed LegalEase, an AI-powered system that uses a fine-tuned Small Language Model (Gemma 3 270M) to:
-  1.Convert complex rental clauses into simple English
-  2.Assign a risk level (Low / Medium / High)
-  3.Provide instant, easy-to-understand explanations
+ * Project Description
 
-Instead of building a large general model, we fine-tuned a small model for a highly specific task, achieving efficient and accurate results.
+[Write your project description here. Use this structure for best impact:]
 
-3) Key Features
+Problem:
+Briefly explain the real-world problem you are solving.
+Solution:
+Describe your approach and how your project solves it.
+Key Features:
+Feature 1
+Feature 2
+Feature 3
+Tech Stack:
+(e.g., React, Node.js, Python, TensorFlow, MongoDB, etc.)
+Impact:
+Explain how your project helps users / society.
 
-Clause Simplification :
-Converts complex legal text into clear, one-line explanations
+🔗 Additional Links (Optional)
 
-Risk Classification :
-Labels clauses as Low, Medium, or High Risk
-
-Fast Local Inference :
-Runs efficiently on local systems without heavy infrastructure
-
-Fine-Tuned SLM :
-Uses a domain-specific dataset for high accuracy
-
-4) Tech Stack
-
-Python
-Hugging Face Transformers
-PEFT (LoRA Fine-Tuning)
-Gemma 3 270M (SLM)
-Datasets Library
-Streamlit (UI)
-Anaconda & Jupyter Notebook
-VScode
-
-5) Impact
-
-* Helps renters understand contracts before signing
-* Promotes transparency in legal agreements
-* Empowers non-legal users with accessible information
-* Demonstrates how small language models can solve real-world problems efficiently
-* We focused on high-quality data and task-specific fine-tuning, enabling a lightweight 270M model to deliver meaningful real-world insights
+Presentation: [Link]
