@@ -54,11 +54,7 @@ Runs efficiently on local systems without heavy infrastructure
 Fine-Tuned SLM :
 Uses a domain-specific dataset for high accuracy
 
-4) Tech Stack
-
-## 🚀 Tech Stack
-
-## 🚀 Tech Stack
+## 4) Tech Stack
 
 - Python  
 - Hugging Face Transformers  
