@@ -63,7 +63,8 @@ Hugging Face Transformers
 PEFT (LoRA Fine-Tuning)
 Gemma 3 270M (SLM)
 Datasets Library
-Streamlit (UI)
+React
+Node.js
 Anaconda & Jupyter Notebook
 VScode
 
