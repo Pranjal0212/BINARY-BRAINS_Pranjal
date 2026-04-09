@@ -13,12 +13,12 @@ Legal Clause Simplifier for Rental Agreements
 Team Leader
 Name: Pranjal Phone: 9569796938
 
-Team Members & Roles
+## Team Members & Roles
 
-Pritam Dey	-AI/ML Engineer (Model Training & Fine-Tuning Pipeline)
-Rishabh Verma	-Data Engineer (Data Scraping, Cleaning & Dataset Preparation)
-Priyanshu Kumar	-Frontend Developer (Streamlit UI & User Experience)
-Pranjal	        -Integration & Backend Engineer (Model Integration, Inference & System Flow)
+- **Pritam Dey** – AI/ML Engineer (Model Training & Fine-Tuning Pipeline)  
+- **Rishabh Verma** – Data Engineer (Data Scraping, Cleaning & Dataset Preparation)  
+- **Priyanshu Kumar** – Frontend Developer (Streamlit UI & User Experience)  
+- **Pranjal** – Integration & Backend Engineer (Model Integration, Inference & System Flow)  
 
 Project Description
 
